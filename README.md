@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-This program uses a Genetic Algorithm to find the best values to maximize the (arbitrary) function,
+This program uses a Genetic Algorithm written in Python to find the best values to maximize the (arbitrary) function,
 
                            -4a + 2b + (-3.5)c + (-5)d + 11e + (-4.7)f
 
